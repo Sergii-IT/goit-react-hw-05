@@ -1,0 +1,22 @@
+.reviewsContainer {
+    padding: 20px;
+  }
+  
+  .reviewItem {
+    margin-bottom: 20px;
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #f3f3f3;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .author {
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .content {
+    font-size: 15px;
+    color: #333;
+  }
+  

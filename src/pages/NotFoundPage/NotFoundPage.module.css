@@ -1,0 +1,30 @@
+.container {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 16px;
+    color: #e63946;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 24px;
+  }
+  
+  .link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #457b9d;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  .link:hover {
+    background-color: #1d3557;
+  }
+  

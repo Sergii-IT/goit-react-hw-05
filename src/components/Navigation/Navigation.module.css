@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    background-color: #222;
+  }
+  
+  .link {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .link.active {
+    color: #facc15;
+  }
+  
